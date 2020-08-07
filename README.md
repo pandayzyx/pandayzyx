@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pandayzyx&theme=merko&show_icons=true&count_private=true" height="207px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandayzyx&theme=merko"/>
 </P>
-<img src ="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" align="right" width="250" height="280" />
+
 <h3 align='center'><samp><strong>Hey there! I'm Gaurav </strong>😄</samp></h3> 
  <h5 align='center'><samp><a href="https://unnati-verma.web.app/">https://pandayzyx.github.io/</a></samp></h5>
 <h4 align='center'> <samp>React Developer | Tech Enthusiast </samp></h4>
