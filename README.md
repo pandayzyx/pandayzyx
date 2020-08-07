@@ -7,7 +7,7 @@
 </P>
 
 <h3 align='center'><samp><strong>Hey there! I'm Gaurav </strong>😄</samp></h3> 
- <h5 align='center'><samp><a href="https://pandayzyx.github.io"</a></samp></h5>
+ <h5 align='center'><samp><a href="https://pandayzyx.github.io/">https://pandayzyx.github.io/</a></samp></h5>
 <h4 align='center'> <samp>React Developer | Tech Enthusiast </samp></h4>
 <p align='center'><samp>
 I'm a React Developer with proficiency in Data Structures and Algorithms who finds himself to be a passionate learner and piqued in developing user-friendly and responsive websites and applications.
