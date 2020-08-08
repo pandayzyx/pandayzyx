@@ -1,5 +1,4 @@
 - :telescope: Falling in love with React
-- :seedling: Learning Express Mongo Db
 - :zap: Fun fact: A mechanical Engineer Passionate To Be A Competent Software Developer
 <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=pandayzyx&theme=merko&show_icons=true&count_private=true" height="207px" />
@@ -14,7 +13,6 @@ I'm a React Developer with proficiency in Data Structures Algorithms Express and
 </samp></p>
 <p align='center'>
  <a href="https://www.hackerrank.com/gauravx_gp?hr_r=1?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-%23339933.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <a href="https://www.linkedin.com/in/gaurav-panday-93876519b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
  <hr>
