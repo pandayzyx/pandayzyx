@@ -28,7 +28,7 @@ I'm a React Developer with proficiency in Data Structures Algorithms Express and
 <hr>
 </p>
 <hr>
-<h4><samp>I'm currently learning...</samp></h4>
+
 
 
 
