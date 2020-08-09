@@ -21,7 +21,7 @@ I'm a React Developer with proficiency in Data Structures Algorithms Express and
  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/react%20redux%20-%23c21325.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jquery-%23cc6699.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <p >
-&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/express%20-%23db7093.svg?&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/mongodb%20-%23c21325.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/express%20-%23db7093.svg?&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/mongodb%20-%23c21325.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 </p>
